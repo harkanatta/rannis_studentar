@@ -4,9 +4,7 @@ author: "<center><div class='mysubtitle'>Heiti verkefnis: Sjálfvirk dýptarstý
 output:
   html_document:
     toc: false
-    includes: 
-        before_body: header.html
-        after_body: footer.html
+    
 css: styles.css
 ---
 

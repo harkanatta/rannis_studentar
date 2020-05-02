@@ -4,7 +4,7 @@ author: "<center><div class='mysubtitle'>Heiti verkefnis: Sjálfvirk dýptarstý
 output:
   html_document:
     toc: false
-    
+pagetitle: BioPol Sumarstörf    
 css: styles.css
 ---
 
@@ -21,10 +21,10 @@ __Sumarstörf fyrir tvo nema__ í raunvísindum eru í boði hjá [BioPol](https
 
 Störfin fela í sér talsverða forritun og þrívíddarprentun. Markmiðið er að smíða mælitæki fyrir sjómælingar (CTD; selta hitastig og dýpi) með innbyggðri dýptarstýringu og sendi fyrir gögn.
 
-* **Nemi 1**: Smíða CTD bauju eftir [fyrirliggjandi teikningum](https://github.com/OceanographyforEveryone/OpenCTD) með þeim breytingum að baujan innihaldi tölvu- og flotbúnað sem hannaður er af Starfsm. B.
+* **Nemi 1**: Smíða CTD bauju eftir [fyrirliggjandi teikningum](https://github.com/OceanographyforEveryone/OpenCTD) með þeim breytingum að baujan innihaldi tölvu- og flotbúnað sem hannaður er ásamt nema 2.
 * **Nemi 2**: Setja upp hugbúnað og vélbúnað, stofna gagnagrunn og skrifa forrit til þess að lesa upplýsingar úr mælum og skrá í gagnagrunninn annars vegar og til að stýra flotbúnaði hins vegar.
 
-Umsóknarfrestur er til og með 10. maí nk. Umsóknir með upplýsingum um menntun, starfsreynslu og meðmælendur berist BioPol ehf., Einbúastíg 2, 545 Skagaströnd eða valtyr@biopol.is og halldor@biopol.is.
+Umsóknarfrestur er til og með **10. maí** nk. Umsóknir með upplýsingum um menntun, starfsreynslu og meðmælendur berist BioPol ehf., Einbúastíg 2, 545 Skagaströnd eða valtyr@biopol.is og halldor@biopol.is.
 
 Nánari upplýsingar veitir Valtýr Sigurðsson í síma 846-5996 eða valtyr@biopol.is.
 
@@ -68,7 +68,7 @@ The aim is to build a [OpenCTD](https://github.com/OceanographyforEveryone/OpenC
 
 Applicants must be interested in computer programming and technology and be able to work independently on these tasks.
 
-Interested applicants should send their resumé to valtyr@biopol.is and halldor@biopol.is. For further information about the project call Valtýr: 8465996 or email valtyr@biopol.is.
+Interested applicants should send their resumé to valtyr@biopol.is and halldor@biopol.is **before May 10th**. For further information about the project call Valtýr: 8465996 or email valtyr@biopol.is.
 
 <br><br>
 
